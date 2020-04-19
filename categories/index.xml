@@ -6,9 +6,19 @@
     <description>Recent content in Categories on A simple blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Tue, 07 May 2019 10:38:37 +0800</lastBuildDate>
     
 	<atom:link href="https://ryan1100.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blog</title>
+      <link>https://ryan1100.github.io/categories/blog/</link>
+      <pubDate>Tue, 07 May 2019 10:38:37 +0800</pubDate>
+      
+      <guid>https://ryan1100.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
